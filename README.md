@@ -1,8 +1,8 @@
 ### Samuel L. McHargue
 
-Tax Associate at KPMG in Anchorage. CPA candidate. I write about practical AI use in professional services at [samuelmchargue.com](https://samuelmchargue.com).
+Tax professional and CPA candidate based in Anchorage, Alaska. I focus on the practical application of AI in professional services, and I write about what I learn at [samuelmchargue.com](https://samuelmchargue.com).
 
-The repositories here are mostly small tools I build while experimenting: single-page web apps, prompt workflows, and the occasional Rust or Python project when I want to learn something. Anything with a corresponding essay on the blog has a link in the repo's README.
+This profile collects small tools I build while experimenting: single-page web apps, prompt workflows, and the occasional Rust or Python project. Where a project has a corresponding write-up, you'll find a link in its README.
 
 ###### Elsewhere
 
