@@ -1,16 +1,13 @@
-## Hi there 👋
+### Samuel L. McHargue
 
-<!--
-**hotredsam/hotredsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tax Associate at KPMG in Anchorage. CPA candidate. I write about practical AI use in professional services at [samuelmchargue.com](https://samuelmchargue.com).
 
-Here are some ideas to get you started:
+The repositories here are mostly small tools I build while experimenting: single-page web apps, prompt workflows, and the occasional Rust or Python project when I want to learn something. Anything with a corresponding essay on the blog has a link in the repo's README.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Elsewhere
+
+- Blog: [samuelmchargue.com](https://samuelmchargue.com)
+
+- Newsletter: [substack.com/@samuelmchargue](https://substack.com/@samuelmchargue)
+
+- LinkedIn: [linkedin.com/in/slmchargue](https://linkedin.com/in/slmchargue)
