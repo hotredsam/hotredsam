@@ -1,13 +1,19 @@
 ### Samuel L. McHargue
 
-Tax professional and CPA candidate based in Anchorage, Alaska. I focus on the practical application of AI in professional services, and I write about what I learn at [samuelmchargue.com](https://samuelmchargue.com).
+Founder at [Redbroch](https://github.com/redbroch). I build secure AI systems for mid-sized firms — the internal assistants and document workflows that reach production, not the slide deck.
 
-This profile collects small tools I build while experimenting: single-page web apps, prompt workflows, and the occasional Rust or Python project. You can browse all of my work on my [GitHub profile](https://github.com/hotredsam), and where a project has a corresponding write-up, you'll find a link in its README.
+Formerly tax at KPMG. That background is the point: I know what a workpaper is, why the partner signs off, and what "documentation" means to a regulator — which is most of why professional-services firms hire me rather than a generalist.
+
+###### What's here
+
+Small tools and experiments: single-page web apps, prompt workflows, and the occasional Rust or Python project. Client work is private. Redbroch's public demonstrations live at [@redbroch](https://github.com/redbroch).
 
 ###### Elsewhere
 
-- Blog: [samuelmchargue.com](https://samuelmchargue.com)
+Company — [redbroch.com](https://redbroch.com)
 
-- Newsletter: [substack.com/@samuelmchargue](https://substack.com/@samuelmchargue)
+Blog — [samuelmchargue.com](https://samuelmchargue.com)
 
-- LinkedIn: [linkedin.com/in/slmchargue](https://linkedin.com/in/slmchargue)
+Newsletter — [substack.com/@samuelmchargue](https://substack.com/@samuelmchargue)
+
+LinkedIn — [linkedin.com/in/slmchargue](https://linkedin.com/in/slmchargue)
